@@ -1,6 +1,6 @@
 # vuepress-base
 
-Starter template for a [VuePress](https://vuepress.vuejs.org) site
+Starter template for a [VuePress](https://vuepress.vuejs.org) site. Let's see.
 
 ## One-click Deploy
 
